@@ -1,0 +1,51 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.myLink{
+    text-decoration: none;
+    display: inline;
+}
+
+footer a img {
+    position: relative;
+    top: 4px;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+#iAmTeacher:hover{
+    color: rgb(42, 70, 42);
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+#iAmStudent:hover{
+    color: rgb(42, 70, 42);
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+#iAmTeacher{
+ color: white;
+ font-size: 1.25rem;
+ padding: 3px;
+
+}
+#iAmStudent{
+    padding: 3px;
+    color: white;
+    font-size: 1.25rem;
+   
+}
+
+#login{
+    margin: 20px;
+}
+
+#register{
+    margin: 20px;
+}
